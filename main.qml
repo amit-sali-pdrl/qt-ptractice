@@ -15,12 +15,7 @@ ApplicationWindow {
             text: "Name: " + personBackend.name
             font.pixelSize: 18
         }
-        Text{
-        text: "git revert check"
-        }
-        Text{
-        text: "git revert check - 2"
-        }
+
         Button{
             text:"press to change name"
             onClicked: {
