@@ -18,6 +18,9 @@ ApplicationWindow {
         Text{
         text: "git revert check"
         }
+        Text{
+        text: "git revert check - 2"
+        }
         Button{
             text:"press to change name"
             onClicked: {
